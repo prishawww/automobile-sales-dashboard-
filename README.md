@@ -73,4 +73,34 @@ pip install -r requirements.txt
 python automobile_dashboard.py
 ```
 
-Open the local address
+Open the local address displayed in the terminal to use the dashboard.
+
+📂 Dataset
+
+The dashboard uses historical automobile sales data provided through the IBM Developer Skills Network course materials.
+
+The dataset includes automobile sales, recession indicators, vehicle types, advertising expenditure, unemployment rates, and other economic variables.
+
+💡 Key Areas of Analysis
+
+Year-over-year automobile sales trends.
+
+Differences in sales across vehicle categories.
+
+Changes in advertising expenditure across vehicle types.
+
+Automobile sales patterns during recession periods.
+
+Associations between unemployment rates and automobile sales.
+
+⚠️ Limitations
+
+This project is an exploratory analysis of historical data. Observed relationships do not necessarily establish causation, and results depend on the dataset and analysis methods used.
+
+👩‍💻 Author
+
+Prisha K
+
+GitHub: @prishawww
+
+Created as a data visualization and analytics learning project.
